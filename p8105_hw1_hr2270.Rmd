@@ -1,12 +1,12 @@
 ---
 title: "p8105_hw1_hr2270"
-output: html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
+output: github_document
+
 ---
 
 ```{r code}
 
+
+x = 2
 
 ```
